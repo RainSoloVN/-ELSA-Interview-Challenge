@@ -40,6 +40,8 @@ yarn-error.log*
 
 .vscode/
 
+.mov
+
 package-lock.json
 yarn.lock
 
